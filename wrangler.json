@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "dataview-panel",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ab9c7443-1694-428b-83b0-80c84d516aad",
+      "database_name": "tiny-credit-c1d3-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
